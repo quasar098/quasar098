@@ -1,9 +1,8 @@
 ## im quasar
 ### things i did:
-- [animal-chess](https://github.com/quasar098/animal-chess) (finished)
-- [randiverse](https://github.com/quasar098/randiverse) (finished)
-- [my website](https://quasar098.github.io) (WIP)
-- [coology](https://github.com/quasar098/coology) (in beta, you can't view it yet...)
-- [voxyl enhanced](https://github.com/quasar098/voxyl-enhanced) (WIP)
-- [carcass clicker](https://carcass-clicker.onrender.com) (WIP)
-- [castle cows](https://github.com/quasar098/castle-cows) (abandoned)
+- [animal-chess](https://github.com/quasar098/animal-chess) - buggy ahh chess with animals
+- [randiverse](https://github.com/quasar098/randiverse) cool random string generator for your needs
+- [my website](https://quasar098.github.io) - revolving sushi style
+- [voxyl enhanced](https://github.com/quasar098/voxyl-enhanced) - mod for minecraft 1.8.9 for bedwarspractice.net server
+- [carcass clicker](https://carcass-clicker.onrender.com) - stepmania clicker edition
+- [castle cows](https://github.com/quasar098/castle-cows) - prozd inspired cow card game
