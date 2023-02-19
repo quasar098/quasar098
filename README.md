@@ -1,6 +1,7 @@
 ## im quasar
 ### things i did:
 - [animal-chess](https://github.com/quasar098/animal-chess) - buggy ahh chess with animals
+- [minesweeper algorithm](https://github.com/quasar098/self-solving-minesweeper) - self solving minesweeper
 - [randiverse](https://github.com/quasar098/randiverse) cool random string generator for your needs
 - [my website](https://quasar098.github.io) - revolving sushi style
 - [voxyl enhanced](https://github.com/quasar098/voxyl-enhanced) - mod for minecraft 1.8.9 for bedwarspractice.net server
