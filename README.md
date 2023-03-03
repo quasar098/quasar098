@@ -1,6 +1,8 @@
 ## im quasar
 ### things i did:
+- [text-format-wizard](https://github.com/quasar098/text-format-wizard) - format text nicely as opposed to badly
 - [animal-chess](https://github.com/quasar098/animal-chess) - buggy ahh chess with animals
+- [animal-chess-bot](https://github.com/quasar098/animal-chess-bot) - not terrible bot plays terrible chess
 - [minesweeper algorithm](https://github.com/quasar098/self-solving-minesweeper) - self solving minesweeper
 - [randiverse](https://github.com/quasar098/randiverse) cool random string generator for your needs
 - [my website](https://quasar098.github.io) - revolving sushi style
