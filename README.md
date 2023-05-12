@@ -1,5 +1,7 @@
 ## im quasar
 ### things i did:
+- [pwcrack-builder](https://github.com/quasar098/pwcrack-builder) - python library+scripts for piping output to hashcat/jtr
+- [ctf-writeups](https://github.com/quasar098/ctf-writeups) - ctf writeups because they are very useful
 - [text-format-wizard](https://github.com/quasar098/text-format-wizard) - format text nicely as opposed to badly
 - [animal-chess](https://github.com/quasar098/animal-chess) - buggy ahh chess with animals
 - [animal-chess-bot](https://github.com/quasar098/animal-chess-bot) - not terrible bot plays terrible chess
@@ -16,3 +18,4 @@
 - [booksmack](https://github.com/quasar098/booksmack) - bookmark manager vim edition
 - [first one hour game jam game](https://github.com/quasar098/1hgj-fail-to-win) - you have to fail to win this game
 - [conveyor belt attack](https://github.com/quasar098/conveyor-belt-attack) - game made for LD50 jam about revolving sushi restraunt ptsd
+- [skrunkl](https://github.com/quasar098/skrunkl) - skrunkl discord bot (against youtube tos, will shut down if cease and desist comes)
