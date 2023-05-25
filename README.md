@@ -7,7 +7,7 @@
 - [animal-chess-bot](https://github.com/quasar098/animal-chess-bot) - not terrible bot plays terrible chess
 - [minesweeper algorithm](https://github.com/quasar098/self-solving-minesweeper) - self solving minesweeper
 - [randiverse](https://github.com/quasar098/randiverse) cool random string generator for your needs
-- [my website](https://quasar098.github.io) - revolving sushi style
+- [my site](https://quasar.name) - ya like jazz?
 - [voxyl enhanced](https://github.com/quasar098/voxyl-enhanced) - mod for minecraft 1.8.9 for bedwarspractice.net server
 - [carcass clicker](https://quasar098.github.io/carcass-clicker) - stepmania clicker edition
 - [castle cows](https://github.com/quasar098/castle-cows) - unfinished but complex prozd inspired cow card game
