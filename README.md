@@ -18,4 +18,3 @@
 - [booksmack](https://github.com/quasar098/booksmack) - bookmark manager vim edition
 - [first one hour game jam game](https://github.com/quasar098/1hgj-fail-to-win) - you have to fail to win this game
 - [conveyor belt attack](https://github.com/quasar098/conveyor-belt-attack) - game made for LD50 jam about revolving sushi restraunt ptsd
-- [skrunkl](https://github.com/quasar098/skrunkl) - skrunkl discord bot (against youtube tos, will shut down if cease and desist comes)
