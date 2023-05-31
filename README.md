@@ -1,5 +1,6 @@
 ## im quasar
 ### things i did:
+- [midi-playground](https://github.com/quasar098/midi-playground) - the square bounces to the music, and uses a brilliant algorithm
 - [pwcrack-builder](https://github.com/quasar098/pwcrack-builder) - python library+scripts for piping output to hashcat/jtr
 - [ctf-writeups](https://github.com/quasar098/ctf-writeups) - ctf writeups because they are very useful
 - [text-format-wizard](https://github.com/quasar098/text-format-wizard) - format text nicely as opposed to badly
