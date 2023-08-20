@@ -3,7 +3,7 @@
 - [my site](https://quasar.name) - ya like jazz?
 - [midi-playground](https://github.com/quasar098/midi-playground) - the square bounces to the music, and uses a brilliant algorithm
 - [pwcrack-builder](https://github.com/quasar098/pwcrack-builder) - python library+scripts for piping output to hashcat/jtr
-- [ctf-writeups](https://github.com/quasar098/ctf-writeups) - ctf writeups because they are very useful
+- [ctf-writeups](https://writeups.quasar.name/) - ctf writeups because they are very useful
 - [text-format-wizard](https://github.com/quasar098/text-format-wizard) - format text nicely as opposed to badly
 - [animal-chess-bot](https://github.com/quasar098/animal-chess-bot) - not terrible bot plays terrible chess
 - [minesweeper algorithm](https://github.com/quasar098/self-solving-minesweeper) - self solving minesweeper
