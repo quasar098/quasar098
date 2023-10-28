@@ -16,7 +16,6 @@
 - [randiverse](https://github.com/quasar098/randiverse) cool random string generator for your needs
 - [animal-chess](https://github.com/quasar098/animal-chess) - buggy ahh chess with animals
 - [sorting algorithm visualizer](https://quasar098.github.io/sort-alg-ap-csp) - sorting algorithm thing for AP CSP
-- [static site service](https://github.com/quasar098/static-site-service) - self hosted static site thing for AP CSP
 - [booksmack](https://github.com/quasar098/booksmack) - bookmark manager vim edition
 - [first one hour game jam game](https://github.com/quasar098/1hgj-fail-to-win) - you have to fail to win this game
 - [conveyor belt attack](https://github.com/quasar098/conveyor-belt-attack) - game made for LD50 jam about revolving sushi restraunt ptsd
