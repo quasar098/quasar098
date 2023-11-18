@@ -2,7 +2,7 @@
 ### very cool things i did:
 - [my site](https://quasar.name) - ya like jazz?
 - [text-format-wizard](https://github.com/quasar098/text-format-wizard) - format text nicely as opposed to badly
-- [midi-playground](https://github.com/quasar098/midi-playground) - the square bounces to the music, and uses a brilliant algorithm
+- [midi-playground](https://github.com/quasar098/midi-playground) - the square bounces to the music, and uses a recursive algorithm
 - [pwcrack-builder](https://github.com/quasar098/pwcrack-builder) - python library+scripts for piping output to hashcat/jtr
 - [ctf-writeups](https://writeups.quasar.name/) - ctf writeups because they are very useful
 - [animal-chess-bot](https://github.com/quasar098/animal-chess-bot) - not terrible bot plays terrible chess
@@ -11,6 +11,7 @@
 - [castle cows](https://github.com/quasar098/castle-cows) - unfinished but complex prozd inspired cow card game
 - [kabufuda solitaire](https://github.com/quasar098/kabufuda-solitaire/) - solitaire but it's with kabufuda cards
 ### other things i did
+- [limbos32](https://github.com/quasar098/limbos32) - limbo keys in windows
 - [skrunkl](https://github.com/quasar098/skrunkl) - self hosted discord bot that plays youtube videos
 - [carcass clicker](https://quasar.name/carcass-clicker) - stepmania clicker edition
 - [randiverse](https://github.com/quasar098/randiverse) cool random string generator for your needs
