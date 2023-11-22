@@ -12,10 +12,11 @@
 - [kabufuda solitaire](https://github.com/quasar098/kabufuda-solitaire/) - solitaire but it's with kabufuda cards
 ### other things i did
 - [limbos32](https://github.com/quasar098/limbos32) - limbo keys in windows
+- [dvd screensaver](https://github.com/quasar098/dvd-screensaver) - dvd screensaver
 - [skrunkl](https://github.com/quasar098/skrunkl) - self hosted discord bot that plays youtube videos
 - [carcass clicker](https://quasar.name/carcass-clicker) - stepmania clicker edition
 - [randiverse](https://github.com/quasar098/randiverse) cool random string generator for your needs
-- [animal-chess](https://github.com/quasar098/animal-chess) - buggy ahh chess with animals
+- [animal chess](https://github.com/quasar098/animal-chess) - buggy ahh chess with animals
 - [sorting algorithm visualizer](https://quasar098.github.io/sort-alg-ap-csp) - sorting algorithm thing for AP CSP
 - [booksmack](https://github.com/quasar098/booksmack) - bookmark manager vim edition
 - [first one hour game jam game](https://github.com/quasar098/1hgj-fail-to-win) - you have to fail to win this game
