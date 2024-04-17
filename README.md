@@ -1,6 +1,7 @@
 ## im quasar
 ### very cool things i did:
 - [my site](https://quasar.name) - ya like jazz?
+- [limbos32](https://github.com/quasar098/limbos32) - limbo keys in windows
 - [text-format-wizard](https://github.com/quasar098/text-format-wizard) - format text nicely as opposed to badly
 - [midi-playground](https://github.com/quasar098/midi-playground) - the square bounces to the music, and uses a recursive algorithm
 - [pwcrack-builder](https://github.com/quasar098/pwcrack-builder) - python library+scripts for piping output to hashcat/jtr
@@ -11,7 +12,6 @@
 - [castle cows](https://github.com/quasar098/castle-cows) - unfinished but complex prozd inspired cow card game
 - [kabufuda solitaire](https://github.com/quasar098/kabufuda-solitaire/) - solitaire but it's with kabufuda cards
 ### other things i did
-- [limbos32](https://github.com/quasar098/limbos32) - limbo keys in windows
 - [dvd screensaver](https://github.com/quasar098/dvd-screensaver) - dvd screensaver
 - [skrunkl](https://github.com/quasar098/skrunkl) - self hosted discord bot that plays youtube videos
 - [carcass clicker](https://quasar.name/carcass-clicker) - stepmania clicker edition
