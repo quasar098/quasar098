@@ -1,9 +1,9 @@
 ## im quasar
 ### very cool things i did:
 - [my site](https://quasar.name) - ya like jazz?
-- [limbos32](https://github.com/quasar098/limbos32) - limbo keys in windows
 - [text-format-wizard](https://github.com/quasar098/text-format-wizard) - format text nicely as opposed to badly
 - [midi-playground](https://github.com/quasar098/midi-playground) - the square bounces to the music, and uses a recursive algorithm
+- [limbos32](https://github.com/quasar098/limbos32) - limbo keys in windows
 - [pwcrack-builder](https://github.com/quasar098/pwcrack-builder) - python library+scripts for piping output to hashcat/jtr
 - [ctf-writeups](https://writeups.quasar.name/) - ctf writeups because they are very useful
 - [animal-chess-bot](https://github.com/quasar098/animal-chess-bot) - not terrible bot plays terrible chess
