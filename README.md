@@ -3,6 +3,7 @@
 - [my site](https://quasar.name) - ya like jazz?
 - [text-format-wizard](https://github.com/quasar098/text-format-wizard) - format text nicely as opposed to badly
 - [midi-playground](https://github.com/quasar098/midi-playground) - the square bounces to the music, and uses a recursive algorithm
+- [jailCTF](https://ctftime.org/ctf/1152/) - i organized jailCTF 2024+
 - [limbos32](https://github.com/quasar098/limbos32) - limbo keys in windows
 - [pwcrack-builder](https://github.com/quasar098/pwcrack-builder) - python library+scripts for piping output to hashcat/jtr
 - [ctf-writeups](https://writeups.quasar.name/) - ctf writeups because they are very useful
