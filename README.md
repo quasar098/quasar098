@@ -7,16 +7,16 @@
 - [limbos32](https://github.com/quasar098/limbos32) - limbo keys in windows
 - [pwcrack-builder](https://github.com/quasar098/pwcrack-builder) - python library+scripts for piping output to hashcat/jtr
 - [ctf-writeups](https://writeups.quasar.name/) - ctf writeups because they are very useful
-- [animal-chess-bot](https://github.com/quasar098/animal-chess-bot) - not terrible bot plays terrible chess
 - [minesweeper algorithm](https://github.com/quasar098/self-solving-minesweeper) - self solving minesweeper
 - [voxyl enhanced](https://github.com/quasar098/voxyl-enhanced) - mod for minecraft 1.8.9 for bedwarspractice.net server
 - [castle cows](https://github.com/quasar098/castle-cows) - unfinished but complex prozd inspired cow card game
 - [kabufuda solitaire](https://github.com/quasar098/kabufuda-solitaire/) - solitaire but it's with kabufuda cards
 ### other things i did
+- [ictf-archive](https://github.com/quasar098/ictf-archive) - scripted a dump of the imaginaryCTF archives
 - [dvd screensaver](https://github.com/quasar098/dvd-screensaver) - dvd screensaver
+- [animal-chess-bot](https://github.com/quasar098/animal-chess-bot) - not terrible bot plays terrible chess
 - [skrunkl](https://github.com/quasar098/skrunkl) - self hosted discord bot that plays youtube videos
 - [carcass clicker](https://quasar.name/carcass-clicker) - stepmania clicker edition
-- [randiverse](https://github.com/quasar098/randiverse) cool random string generator for your needs
 - [animal chess](https://github.com/quasar098/animal-chess) - buggy ahh chess with animals
 - [sorting algorithm visualizer](https://quasar098.github.io/sort-alg-ap-csp) - sorting algorithm thing for AP CSP
 - [booksmack](https://github.com/quasar098/booksmack) - bookmark manager vim edition
