@@ -9,7 +9,7 @@
 - [minesweeper algorithm](https://github.com/quasar098/self-solving-minesweeper) - self solving minesweeper
 - [voxyl enhanced](https://github.com/quasar098/voxyl-enhanced) - mod for minecraft 1.8.9 for bedwarspractice.net server
 - [castle cows](https://github.com/quasar098/castle-cows) - unfinished but complex prozd inspired cow card game
-- [kabufuda solitaire](https://github.com/quasar098/kabufuda-solitaire/) - solitaire but it's with kabufuda cards
+- [kabufuda solitaire](https://github.com/quasar098/kabufuda-solitaire/) - 93% accurate recreation of zachtronics game
 ### other things i did
 - [ictf-archive](https://github.com/quasar098/ictf-archive) - dump of imaginaryCTF for archival purposes
 - [dvd screensaver](https://github.com/quasar098/dvd-screensaver) - dvd screensaver
