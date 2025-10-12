@@ -11,13 +11,13 @@
 - [castle cows](https://github.com/quasar098/castle-cows) - unfinished but complex prozd inspired cow card game
 - [kabufuda solitaire](https://github.com/quasar098/kabufuda-solitaire/) - 93% accurate recreation of zachtronics game
 ### other things i did
-- [ictf-archive](https://github.com/quasar098/ictf-archive) - dump of imaginaryCTF for archival purposes
-- [dvd screensaver](https://github.com/quasar098/dvd-screensaver) - dvd screensaver
+- [ictf-archive](https://github.com/quasar098/ictf-archive) - official-ish dump of imaginaryCTF for archival purposes
+- [dvd screensaver](https://github.com/quasar098/dvd-screensaver) - dvd screensaver thing
 - [animal-chess-bot](https://github.com/quasar098/animal-chess-bot) - not terrible bot plays terrible chess
-- [skrunkl](https://github.com/quasar098/skrunkl) - self hosted discord bot that plays youtube videos
-- [carcass clicker](https://quasar.name/carcass-clicker) - stepmania clicker edition
+- [skrunkl](https://github.com/quasar098/skrunkl) - self hosted discord bot that plays youtube videos (broken perhaps)
+- [carcass clicker](https://quasar.name/carcass-clicker) - stepmania but at your own pace
 - [musikcube discord rich presence integration](https://github.com/quasar098/musikcube-discord-presence) - musikcube x discord
 - [animal chess](https://github.com/quasar098/animal-chess) - buggy ahh chess with animals
-- [sorting algorithm visualizer](https://quasar098.github.io/sort-alg-ap-csp) - sorting algorithm thing for AP CSP
+- [sorting algorithm visualizer](https://quasar098.github.io/sort-alg-ap-csp) - sorting algorithm visualizer website with sounds
 - [first one hour game jam game](https://github.com/quasar098/1hgj-fail-to-win) - you have to fail to win this game
 - [conveyor belt attack](https://github.com/quasar098/conveyor-belt-attack) - game made for LD50 jam about revolving sushi restraunt ptsd
