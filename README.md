@@ -16,6 +16,7 @@
 - [animal-chess-bot](https://github.com/quasar098/animal-chess-bot) - not terrible bot plays terrible chess
 - [skrunkl](https://github.com/quasar098/skrunkl) - self hosted discord bot that plays youtube videos
 - [carcass clicker](https://quasar.name/carcass-clicker) - stepmania clicker edition
+- [musikcube discord rich presence integration](https://github.com/quasar098/musikcube-discord-presence) - musikcube x discord
 - [animal chess](https://github.com/quasar098/animal-chess) - buggy ahh chess with animals
 - [sorting algorithm visualizer](https://quasar098.github.io/sort-alg-ap-csp) - sorting algorithm thing for AP CSP
 - [booksmack](https://github.com/quasar098/booksmack) - bookmark manager vim edition
