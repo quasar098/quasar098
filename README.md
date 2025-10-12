@@ -6,7 +6,7 @@
 - [jailCTF](https://ctftime.org/ctf/1152/) - i organize jailCTF (2024/2025+)
 - [limbos32](https://github.com/quasar098/limbos32) - limbo keys in windows
 - [pwcrack-builder](https://github.com/quasar098/pwcrack-builder) - python library+scripts for piping output to hashcat/jtr
-- [minesweeper algorithm](https://github.com/quasar098/self-solving-minesweeper) - self solving minesweeper
+- [minesweeper screensaver](https://github.com/quasar098/self-solving-minesweeper) - 96% accurate recreation of windows xp minesweeper (but it's a screensaver)
 - [voxyl enhanced](https://github.com/quasar098/voxyl-enhanced) - mod for minecraft 1.8.9 for bedwarspractice.net server
 - [castle cows](https://github.com/quasar098/castle-cows) - unfinished but complex prozd inspired cow card game
 - [kabufuda solitaire](https://github.com/quasar098/kabufuda-solitaire/) - 93% accurate recreation of zachtronics game
