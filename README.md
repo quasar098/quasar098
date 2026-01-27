@@ -2,7 +2,7 @@
 ### very cool things i did:
 - [my site](https://quasar.name) - ya like jazz?
 - [text-format-wizard](https://github.com/quasar098/text-format-wizard) - versatile text formatting tool with high efficiency usage
-- [midi-playground](https://github.com/quasar098/midi-playground) - the square bounces to the music, and uses a recursive algorithm
+- [midi-playground](https://github.com/quasar098/midi-playground) - the square bounces to the music, and uses a fancy algorithm
 - [jailCTF](https://ctftime.org/ctf/1152/) - i organize jailCTF (2024/2025+)
 - [dependency-map](https://github.com/jailctf/dependency-map) - automatically generated module dependency map for python/cpython stdlib modules up to python v3.9.0
 - [limbos32](https://github.com/quasar098/limbos32) - limbo keys in windows
