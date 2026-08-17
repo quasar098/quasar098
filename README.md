@@ -3,6 +3,7 @@
 - [my site](https://quasar.name) - ya like jazz?
 - [jailCTF](https://ctftime.org/ctf/1152/) - i organize jailCTF (2024, 2025, 2026)
 - [text-format-wizard](https://github.com/quasar098/text-format-wizard) - versatile text formatting tool with high efficiency usage
+- [autospeedrun](https://github.com/autospeedrun/autospeedrun) - autonomously speedrunning minecraft java 1.16.1 algorithmically (WIP)
 - [midi-playground](https://github.com/quasar098/midi-playground) - the square bounces to the music, and uses a fancy algorithm
 - [dependency-map](https://github.com/jailctf/dependency-map) - automatically generated module dependency map for python/cpython stdlib modules for cpython 3.9.0+
 - [limbos32](https://github.com/quasar098/limbos32) - limbo keys in windows
